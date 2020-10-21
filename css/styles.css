@@ -75,5 +75,5 @@ img {
 
 .gallery-img {
   object-fit: cover;
-  height: inherit;
+  height: 100%;
 }
